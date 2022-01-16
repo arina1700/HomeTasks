@@ -1,0 +1,27 @@
+<object>
+ <thing>
+   <name>Apple</name>
+   <form>Circle</form>
+   <color>Green</color>
+ </thing>
+ <thing>
+   <name>Plate</name>
+   <form>Oval</form>
+   <color>White</color>
+ </thing>
+ <thing>
+   <name>Sponge</name>
+   <form>Rectangle</form>
+   <color>Yellow</color>
+ </thing>
+ <thing>
+   <name>Chair</name>
+   <form>Square</form>
+   <color>Black</color>
+ </thing>
+ <thing>
+   <name>Table</name>
+   <form>Circle</form>
+   <color>White</color>
+ </thing>
+</object>

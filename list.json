@@ -1,0 +1,27 @@
+[
+ {
+   "name": "apple",
+   "form": " circle",
+   "color": " green"
+ },
+ {
+   "name": "plate",
+   "form": " oval",
+   "color": " white"
+ },
+ {
+   "name": "sponge",
+   "form": " rectangle",
+   "color": " yellow"
+ },
+ {
+   "name": "chair",
+   "form": " square",
+   "color": " black"
+ },
+ {
+   "name": "table",
+   "form": " circle",
+   "color": " white"
+ }
+]
